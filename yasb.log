@@ -1,0 +1,1292 @@
+2026-06-27 12:19:40,374 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:19:40,376 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:19:40,376 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:20:50,829 [INFO] [MainThread] [root/welcome.py:867]: Created config file at C:\Users\Akarsh\.config\yasb\config.yaml
+2026-06-27 12:20:50,832 [INFO] [MainThread] [root/welcome.py:876]: Created styles file at C:\Users\Akarsh\.config\yasb\styles.css
+2026-06-27 12:20:51,419 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:20:51,485 [INFO] [SystrayHook] [systray_hook/systray_hook.py:193]: Injecting into Explorer (PID: 13816)
+2026-06-27 12:20:51,545 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 12:20:51,545 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:20:51,545 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:20:51,547 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:20:51,547 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:20:51,548 [WARNING] [Dummy-10] [root/hotkeys.py:201]: Failed to register hotkey alt+space - it may be in use by another application.
+2026-06-27 12:20:51,585 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:21:35,306 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-06-27 12:21:35,410 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:21:35,469 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 12:21:35,469 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:21:35,477 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:21:35,992 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:21:35,993 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:21:35,994 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:21:36,596 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:21:36,706 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 12:21:36,706 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:21:36,706 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:21:36,708 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:21:36,708 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:21:36,739 [WARNING] [Dummy-10] [root/hotkeys.py:201]: Failed to register hotkey alt+space - it may be in use by another application.
+2026-06-27 12:21:36,746 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:21:36,752 [INFO] [SystrayHook] [systray_hook/systray_hook.py:193]: Injecting into Explorer (PID: 13816)
+2026-06-27 12:23:13,053 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:23:13,053 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:23:13,163 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:23:13,194 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 12:23:13,195 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:23:13,198 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:23:14,319 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:23:14,320 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:23:14,321 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:23:14,749 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:23:14,750 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:23:14,750 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:23:14,761 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-7f7dec9f-7244-11f1-9564-b14a2772d04e
+2026-06-27 12:23:14,769 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:23:14,909 [WARNING] [Dummy-5] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:23:39,937 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:23:39,937 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:23:40,051 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:23:40,082 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:23:41,000 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:23:41,001 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:23:41,002 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:23:41,176 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:23:41,629 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 12:23:41,629 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:23:41,629 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:23:41,631 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:23:41,631 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:23:41,650 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:23:49,513 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:23:49,778 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:23:49,890 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:24:09,906 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:24:09,906 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:24:10,020 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:24:10,861 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:24:10,970 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:24:10,979 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:24:11,003 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:24:11,004 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:24:11,005 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:24:11,005 [ERROR] [MainThread] [root/main.py:77]: Another instance of the YASB is already running.
+2026-06-27 12:24:11,103 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 12:24:11,104 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:24:11,105 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:24:11,537 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:24:11,538 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:24:11,539 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:24:12,066 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:24:12,159 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:24:12,213 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:24:12,526 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:24:12,533 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:24:12,533 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:24:12,534 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:24:12,534 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:24:12,551 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:24:20,787 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:25:05,310 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:25:05,310 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:25:05,417 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:25:05,481 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:25:05,483 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:25:05,485 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:25:06,505 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:25:06,506 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:25:06,506 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:25:06,781 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:25:07,427 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:25:07,428 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:25:07,429 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:25:07,429 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:25:07,429 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-c2a74cd1-7244-11f1-a5b2-b14a2772d04e
+2026-06-27 12:25:07,448 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:25:07,555 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:25:07,844 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-27 12:25:07.844895
+2026-06-27 12:25:16,414 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:25:16,414 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:25:16,527 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:25:16,557 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:25:16,559 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:25:17,507 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:25:17,508 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:25:17,509 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:25:18,091 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:25:18,094 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:25:18,095 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:25:18,095 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:25:18,096 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:25:18,096 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:25:18,097 [INFO] [Dummy-5] [root/event_listener.py:54]: Created named pipe yasb-c902fcb0-7244-11f1-bd0b-b14a2772d04e
+2026-06-27 12:25:18,114 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:25:18,223 [WARNING] [Dummy-5] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:26:23,172 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:26:23,172 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:26:23,282 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:26:23,315 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:26:23,319 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:26:23,323 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:26:23,325 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:26:24,330 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:26:24,331 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:26:24,332 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:26:24,942 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:26:25,036 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:26:25,037 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:26:25,038 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:26:25,038 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:26:25,065 [INFO] [Dummy-7] [root/event_listener.py:54]: Created named pipe yasb-f0e978d9-7244-11f1-b2b4-b14a2772d04e
+2026-06-27 12:26:25,075 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:26:25,218 [WARNING] [Dummy-7] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:26:25,519 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-27 12:26:25.519426
+2026-06-27 12:26:52,284 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:26:52,285 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:26:52,392 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:26:52,931 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:26:53,037 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:26:53,045 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:26:53,119 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:26:53,121 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:26:53,421 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:26:53,423 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:26:53,423 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:26:53,617 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:26:53,618 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:26:53,618 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:26:53,618 [INFO] [MainThread] [root/main.py:48]: Waiting for previous YASB instance to exit...
+2026-06-27 12:26:53,653 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:26:53,672 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:26:54,042 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:26:54,043 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:26:54,044 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:26:54,044 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:26:54,045 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-023373a8-7245-11f1-96d6-b14a2772d04e
+2026-06-27 12:26:54,065 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:26:54,176 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:27:03,632 [ERROR] [MainThread] [root/main.py:71]: Timeout waiting for previous instance. Aborting start.
+2026-06-27 12:27:34,868 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-06-27 12:27:34,969 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:27:35,022 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:27:35,116 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:27:35,557 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:27:35,558 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:27:35,559 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:27:35,780 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:27:35,798 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:27:36,169 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:27:36,170 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:27:36,171 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:27:36,171 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:27:36,172 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-1b4f8f21-7245-11f1-b1f4-b14a2772d04e
+2026-06-27 12:27:36,194 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:27:36,299 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:27:56,710 [INFO] [MainThread] [root/controller.py:21]: Reloading Bar from context menu...
+2026-06-27 12:27:56,820 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:27:56,869 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:27:56,871 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:27:57,399 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:27:57,400 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:27:57,401 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:27:57,623 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:27:57,642 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:27:58,017 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:27:58,017 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:27:58,019 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:27:58,019 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:27:58,019 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-28552f97-7245-11f1-b9e7-b14a2772d04e
+2026-06-27 12:27:58,040 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:27:58,144 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:28:09,548 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:28:09,549 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:28:09,652 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:28:09,683 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:28:09,685 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:28:10,688 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:28:10,689 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:28:10,689 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:28:10,958 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:28:11,457 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:28:11,457 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:28:11,459 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:28:11,459 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:28:11,475 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:28:11,822 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-27 12:28:11.822892
+2026-06-27 12:28:19,647 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:32:26,955 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:32:26,955 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:32:27,057 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:32:27,116 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:32:27,118 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:32:28,075 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:32:28,076 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:32:28,076 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:32:28,676 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:32:28,722 [INFO] [SystrayHook] [systray_hook/systray_hook.py:193]: Injecting into Explorer (PID: 13816)
+2026-06-27 12:32:28,803 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 12:32:28,804 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:32:28,805 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:32:28,805 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:32:28,832 [WARNING] [Dummy-10] [root/hotkeys.py:201]: Failed to register hotkey alt+space - it may be in use by another application.
+2026-06-27 12:32:28,842 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:32:28,880 [INFO] [MainThread] [root/open_meteo.py:133]: No saved location for open_meteo. Awaiting user setup.
+2026-06-27 12:32:49,481 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:32:49,481 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:32:49,588 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:32:49,617 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 12:32:49,618 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:32:50,667 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:32:50,669 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:32:50,669 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:32:50,865 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:32:51,319 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:32:51,369 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:32:52,181 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:32:52,187 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:32:52,187 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:32:52,204 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:33:32,149 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:33:32,149 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:33:32,249 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:33:32,285 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:33:33,298 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:33:33,299 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:33:33,300 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:33:33,499 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:33:34,056 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:33:34,057 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:33:34,057 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:33:34,058 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:33:34,058 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:33:34,059 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-f0a0d27c-7245-11f1-8cf8-b14a2772d04e
+2026-06-27 12:33:34,077 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:33:34,190 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:33:43,167 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:33:43,167 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:33:43,276 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:33:43,788 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:33:43,892 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:33:43,900 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:33:44,142 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:33:44,145 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:33:44,148 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:33:44,189 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:33:44,190 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:33:44,190 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:33:44,191 [ERROR] [MainThread] [root/main.py:77]: Another instance of the YASB is already running.
+2026-06-27 12:33:44,498 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:33:44,499 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:33:44,499 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:33:44,678 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:33:45,149 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:33:45,202 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:33:46,006 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:33:46,011 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:33:46,012 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:33:46,027 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:34:11,069 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:34:11,069 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:34:11,179 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:34:11,210 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:34:12,132 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:34:12,133 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:34:12,134 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:34:12,648 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:34:12,736 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:34:12,779 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:34:13,094 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:34:13,100 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:34:13,101 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:34:13,102 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:34:13,102 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:34:13,118 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:34:21,342 [WARNING] [MainThread] [glazewm_client/client.py:134]: WebSocket error: SocketError.ConnectionRefusedError. Reconnecting...
+2026-06-27 12:34:50,062 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:34:50,063 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:34:50,163 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:34:50,232 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:34:50,234 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:34:50,236 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:34:51,296 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:34:51,297 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:34:51,297 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:34:51,442 [INFO] [MainThread] [root/service.py:103]: UpdateCheckService initialized...
+2026-06-27 12:34:51,893 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:34:51,939 [INFO] [MainThread] [root/api.py:62]: GitHubDataManager started...
+2026-06-27 12:34:52,075 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:34:52,076 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:34:52,077 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:34:52,086 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-1f216c63-7246-11f1-be53-b14a2772d04e
+2026-06-27 12:34:52,097 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:34:52,219 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:35:19,595 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:35:19,595 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:35:19,701 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:35:19,732 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:35:21,243 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:35:21,244 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:35:21,245 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:35:21,876 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:35:22,096 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:35:22,107 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:35:22,109 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:35:22,109 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:35:22,129 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:35:22,614 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-06-27 12:35:22.614136
+2026-06-27 12:35:35,882 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:35:35,882 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:35:35,989 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:35:36,020 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:35:36,022 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:35:37,118 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:35:37,119 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:35:37,119 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:35:37,338 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:35:37,588 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:35:37,588 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:35:37,589 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:35:37,589 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:35:37,626 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:35:45,429 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:35:45,430 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:35:45,543 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:35:46,340 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:35:46,449 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:35:46,457 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:35:46,493 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:35:46,494 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:35:46,494 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:35:46,495 [ERROR] [MainThread] [root/main.py:77]: Another instance of the YASB is already running.
+2026-06-27 12:35:46,523 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:35:46,526 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:35:47,026 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:35:47,027 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:35:47,028 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:35:47,486 [ERROR] [MainThread] [root/weather.py:40]: API key or location is missing. Please provide a valid API key and location.
+2026-06-27 12:35:47,572 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:35:47,688 [INFO] [MainThread] [root/bar_manager.py:103]: Starting WindowsNotificationEventListener...
+2026-06-27 12:35:47,688 [INFO] [MainThread] [root/bar_manager.py:103]: Starting SystemEventListener...
+2026-06-27 12:35:47,689 [INFO] [MainThread] [root/bar_manager.py:103]: Starting KomorebiEventListener...
+2026-06-27 12:35:47,690 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:35:47,690 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:35:47,719 [INFO] [Dummy-6] [root/event_listener.py:54]: Created named pipe yasb-40476006-7246-11f1-ac78-b14a2772d04e
+2026-06-27 12:35:47,722 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:35:47,858 [WARNING] [Dummy-6] [root/event_listener.py:136]: Komorebi failed to subscribe named pipe. 'komorebic.exe' is not recognized as an internal or external command, operable program or batch file.
+2026-06-27 12:36:12,704 [INFO] [CLIPipeServer] [cli_server/cli_server.py:257]: CLI server received command: stop
+2026-06-27 12:36:12,704 [INFO] [CLIPipeServer] [root/controller.py:43]: Exiting Application from CLI...
+2026-06-27 12:36:12,812 [INFO] [CLIPipeServer] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:36:12,844 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping WindowsNotificationEventListener...
+2026-06-27 12:36:12,847 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping SystemEventListener...
+2026-06-27 12:36:12,850 [INFO] [MainThread] [root/bar_manager.py:119]: Stopping KomorebiEventListener...
+2026-06-27 12:36:13,701 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:36:13,702 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:36:13,703 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:36:13,875 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:36:14,330 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:36:14,380 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:36:15,174 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:36:15,180 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:36:15,180 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:36:15,196 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:37:15,326 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:37:15,441 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:37:15,450 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:37:15,487 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:37:16,009 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:37:16,011 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:37:16,011 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:37:16,189 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:37:16,656 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:37:16,740 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:37:16,780 [WARNING] [MainThread] [root/widget_builder.py:39]: No widget config could be found for widget 'disk
+2026-06-27 12:37:17,562 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:37:17,567 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to add undefined widget(s)  - The widget "disk" is undefined.
+2026-06-27 12:37:17,589 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:37:17,590 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:37:17,607 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:37:46,452 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:37:46,555 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:37:46,565 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:37:46,597 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:37:47,121 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:37:47,122 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:37:47,122 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:37:47,298 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:37:47,760 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:37:47,811 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-06-27 12:37:48,625 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:37:48,630 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:37:48,631 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:37:48,647 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:37:59,903 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:38:00,018 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:38:00,029 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:38:00,061 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:38:00,590 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:38:00,591 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:38:00,592 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:38:00,768 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:38:01,234 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:38:02,035 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:38:02,041 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:38:02,041 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:38:02,057 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:38:30,927 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:38:31,039 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:38:31,050 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:38:31,083 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:38:31,600 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:38:31,601 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:38:31,601 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:38:31,775 [INFO] [MainThread] [windows_desktop_service/service.py:108]: Registered COM virtual desktop event successfully
+2026-06-27 12:38:32,219 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:38:32,950 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:38:32,955 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:38:32,956 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:38:32,972 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:01,730 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:01,839 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:01,849 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:01,883 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:02,397 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:02,398 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:02,398 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:02,922 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:03,494 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:03,499 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:03,500 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:03,516 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:13,330 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:13,442 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:13,453 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:13,486 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:14,007 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:14,008 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:14,009 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:14,531 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:15,108 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:15,113 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:15,113 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:15,130 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:23,467 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:23,576 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:23,585 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:23,617 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:24,140 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:24,142 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:24,142 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:24,662 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:25,233 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:25,238 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:25,238 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:25,255 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:35,206 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:35,313 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:35,323 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:35,355 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:35,881 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:35,882 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:35,883 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:36,414 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:36,980 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:36,986 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:36,986 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:37,003 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:41,135 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:41,250 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:41,260 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:41,292 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:41,810 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:41,811 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:41,811 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:42,337 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:42,913 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:42,918 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:42,918 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:42,934 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:39:51,855 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:39:51,969 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:39:51,981 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:39:52,018 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:39:52,538 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:39:52,539 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:39:52,539 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:39:53,076 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:39:53,667 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:39:53,673 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:39:53,673 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:39:53,689 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:40:05,901 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:40:06,007 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:40:06,017 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:40:06,054 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:40:06,563 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:40:06,564 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:40:06,564 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:40:07,089 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:40:07,659 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:40:07,664 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:40:07,664 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:40:07,680 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:40:16,585 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:40:16,687 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:40:16,697 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:40:16,730 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:40:17,259 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:40:17,260 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:40:17,261 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:40:17,785 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:40:18,358 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:40:18,363 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:40:18,363 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:40:18,380 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:40:25,246 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:40:25,347 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:40:25,359 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:40:25,393 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:40:25,926 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:40:25,927 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:40:25,927 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:40:26,454 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:40:27,033 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:40:27,038 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:40:27,038 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:40:27,055 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:40:38,771 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:40:38,883 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:40:38,894 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:40:38,926 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:40:39,444 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:40:39,445 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:40:39,445 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:40:39,971 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:40:40,545 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:40:40,551 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:40:40,551 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:40:40,568 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:40:53,055 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:40:53,157 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:40:53,168 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:40:53,199 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:40:53,719 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:40:53,721 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:40:53,721 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:40:54,251 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:40:54,825 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:40:54,830 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:40:54,831 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:40:54,847 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:41:14,480 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Akarsh\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    corner-radius:
+    - Extra inputs are not permitted
+
+2026-06-27 12:42:03,709 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Akarsh\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    round-corners:
+    - Extra inputs are not permitted
+
+2026-06-27 12:42:16,440 [ERROR] [MainThread] [root/config.py:99]: The config file 'C:\Users\Akarsh\.config\yasb\config.yaml' contains validation errors. Please fix:
+bars:
+  status-bar:
+    round_corners:
+    - Extra inputs are not permitted
+
+2026-06-27 12:54:45,384 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:54:45,486 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:54:45,499 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:54:45,532 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:54:46,078 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:54:46,079 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:54:46,079 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:54:46,633 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:54:47,219 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:54:47,224 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:54:47,225 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:54:47,242 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:55:41,996 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:55:42,105 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:55:42,117 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:55:42,150 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:55:42,683 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:55:42,684 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:55:42,685 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:55:43,210 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:55:43,773 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:55:43,778 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:55:43,778 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:55:43,794 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:57:02,527 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:57:02,637 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:57:02,649 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:57:02,682 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:57:03,213 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:57:03,214 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:57:03,214 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:57:03,734 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:57:04,304 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:57:04,310 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:57:04,310 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:57:04,326 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:57:13,790 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:57:13,905 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:57:13,917 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:57:13,950 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:57:14,468 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:57:14,470 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:57:14,470 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:57:14,998 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:57:15,565 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:57:15,570 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:57:15,571 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:57:15,588 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:57:16,856 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:57:16,963 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:57:16,976 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:57:17,008 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:57:17,536 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:57:17,537 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:57:17,538 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:57:18,067 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:57:18,632 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:57:18,637 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:57:18,638 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:57:18,654 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:57:28,292 [ERROR] [MainThread] [root/config.py:113]: The file 'C:\Users\Akarsh\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a flow sequence
+  in "C:\Users\Akarsh\.config\yasb\config.yaml", line 45, column 9
+expected ',' or ']', but got '<scalar>'
+  in "C:\Users\Akarsh\.config\yasb\config.yaml", line 54, column 11
+2026-06-27 12:57:32,423 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 12:57:32,539 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:57:32,550 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 12:57:32,582 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:57:33,116 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:57:33,117 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:57:33,118 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:57:33,645 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:57:34,220 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:57:34,225 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:57:34,225 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:57:34,241 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 12:59:15,420 [INFO] [MainThread] [root/controller.py:21]: Reloading Application from tray...
+2026-06-27 12:59:15,525 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 12:59:15,584 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 12:59:16,101 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 12:59:16,103 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 12:59:16,103 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 12:59:16,647 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 12:59:17,201 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 12:59:17,206 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 12:59:17,207 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 12:59:17,224 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:01:03,226 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:01:03,329 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:01:03,341 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:01:03,375 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:01:03,903 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:01:03,904 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:01:03,905 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:01:04,415 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:01:04,978 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:01:04,983 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:01:04,983 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:01:05,000 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:04:17,096 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:04:17,199 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:04:17,212 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:04:17,247 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:04:17,782 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:04:17,783 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:04:17,783 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:04:18,302 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:04:18,898 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:04:18,903 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:04:18,903 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:04:18,920 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:04:23,854 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:04:23,964 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:04:23,975 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:04:24,009 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:04:24,545 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:04:24,546 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:04:24,547 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:04:25,071 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:04:25,653 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:04:25,658 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:04:25,658 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:04:25,675 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:04:31,920 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:04:32,033 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:04:32,047 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:04:32,081 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:04:32,610 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:04:32,611 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:04:32,611 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:04:33,140 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:04:33,705 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:04:33,710 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:04:33,710 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:04:33,727 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:05:41,437 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:05:41,541 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:05:41,552 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:05:41,586 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:05:42,127 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:05:42,128 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:05:42,128 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:05:42,650 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:05:43,222 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:05:43,227 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:05:43,227 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:05:43,244 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:07:41,139 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:07:41,241 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:07:41,254 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:07:41,291 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:07:41,818 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:07:41,819 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:07:41,819 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:07:42,344 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:07:42,917 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:07:42,921 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:07:42,921 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:07:42,938 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:08:22,187 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:08:22,303 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:08:22,315 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:08:22,350 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:08:22,883 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:08:22,884 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:08:22,884 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:08:23,417 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:08:24,007 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:08:24,012 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:08:24,012 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:08:24,029 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:08:35,596 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:08:35,711 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:08:35,724 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:08:35,758 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:08:36,294 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:08:36,295 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:08:36,295 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:08:36,839 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:08:37,425 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:08:37,429 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:08:37,429 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:08:37,447 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:09:03,131 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:09:03,233 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:09:03,244 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:09:03,277 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:09:03,797 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:09:03,798 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:09:03,799 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:09:04,321 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:09:04,888 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:09:04,893 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:09:04,893 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:09:04,911 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:09:34,103 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:09:34,216 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:09:34,227 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:09:34,262 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:09:34,793 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:09:34,794 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:09:34,795 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:09:35,317 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:09:35,889 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:09:35,894 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:09:35,894 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:09:35,912 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:09:45,621 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:09:45,728 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:09:45,740 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:09:45,773 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:09:46,296 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:09:46,297 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:09:46,298 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:09:46,823 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:09:47,401 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:09:47,406 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:09:47,406 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:09:47,423 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:09:51,480 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:09:51,584 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:09:51,597 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:09:51,630 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:09:52,161 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:09:52,162 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:09:52,162 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:09:52,684 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:09:53,261 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:09:53,266 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:09:53,266 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:09:53,282 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:10:05,952 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:10:06,067 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:10:06,079 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:10:06,112 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:10:06,636 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:10:06,637 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:10:06,638 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:10:07,166 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:10:07,736 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:10:07,741 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:10:07,741 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:10:07,757 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:10:19,554 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:10:19,669 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:10:19,681 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:10:19,715 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:10:20,230 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:10:20,231 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:10:20,231 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:10:20,752 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:10:21,310 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:10:21,315 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:10:21,315 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:10:21,331 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:10:24,237 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:10:24,351 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:10:24,363 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:10:24,396 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:10:24,916 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:10:24,917 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:10:24,917 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:10:25,443 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:10:25,998 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:10:26,003 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:10:26,003 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:10:26,019 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:12:09,962 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:12:10,064 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:12:10,076 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:12:10,108 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:12:10,629 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:12:10,631 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:12:10,631 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:12:11,162 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:12:11,718 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:12:11,723 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:12:11,723 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:12:11,739 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:12:18,422 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:12:18,528 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:12:18,540 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:12:18,574 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:12:19,084 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:12:19,085 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:12:19,086 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:12:19,611 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:12:20,161 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:12:20,166 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:12:20,166 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:12:20,182 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:12:26,844 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:12:26,948 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:12:26,960 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:12:26,994 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:12:27,519 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:12:27,521 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:12:27,521 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:12:28,050 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:12:28,611 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:12:28,616 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:12:28,616 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:12:28,632 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:13:10,235 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:13:10,350 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:13:10,369 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:13:10,403 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:13:10,928 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:13:10,930 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:13:10,930 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:13:11,462 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:13:12,025 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:13:12,030 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:13:12,030 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:13:12,047 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:13:47,496 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:13:47,610 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:13:47,622 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:13:47,657 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:13:48,171 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:13:48,172 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:13:48,173 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:13:48,695 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:13:49,263 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:13:49,268 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:13:49,268 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:13:49,285 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:13:57,372 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:13:57,486 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:13:57,499 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:13:57,532 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:13:58,054 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:13:58,055 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:13:58,055 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:13:58,587 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:13:59,150 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:13:59,155 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:13:59,155 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:13:59,171 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:14:04,492 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:14:04,606 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:14:04,618 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:14:04,652 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:14:05,172 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:14:05,173 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:14:05,174 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:14:05,703 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:14:06,255 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:14:06,260 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:14:06,260 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:14:06,276 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:19:37,065 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:19:37,178 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:19:37,191 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:19:37,226 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:19:37,798 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:19:37,800 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:19:37,800 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:19:38,338 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:19:38,934 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:19:38,938 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:19:38,939 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:19:38,939 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:19:38,957 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:19:57,479 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:19:57,583 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:19:57,597 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:19:57,631 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:19:57,634 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:19:58,185 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:19:58,186 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:19:58,187 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:19:58,832 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:19:58,881 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:19:59,464 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:19:59,466 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:19:59,466 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:19:59,482 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:20:08,131 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:20:08,233 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:20:08,245 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:20:08,333 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:20:08,334 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:20:08,884 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:20:08,885 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:20:08,886 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:20:09,426 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:20:10,063 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:20:10,068 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:20:10,070 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:20:10,070 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:20:10,090 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:22:42,210 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:22:42,324 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:22:42,338 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:22:42,373 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:22:42,376 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:22:42,926 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:22:42,927 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:22:42,927 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:22:43,470 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:22:44,061 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:22:44,065 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:22:44,067 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:22:44,067 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:22:44,084 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:22:55,326 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:22:55,432 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:22:55,444 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:22:55,479 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:22:55,482 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:22:56,112 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:22:56,113 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:22:56,113 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:22:56,693 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:22:57,284 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:22:57,288 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:22:57,290 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:22:57,290 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:22:57,306 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:23:27,544 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:23:27,647 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:23:27,660 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:23:27,696 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:23:27,699 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:23:28,246 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:23:28,247 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:23:28,247 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:23:28,790 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:23:29,372 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:23:29,377 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:23:29,379 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:23:29,379 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:23:29,395 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:24:48,623 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:24:48,726 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:24:48,739 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:24:48,775 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:24:48,778 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:24:49,330 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:24:49,331 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:24:49,331 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:24:49,912 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:24:50,520 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:24:50,524 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:24:50,526 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:24:50,526 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:24:50,544 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:24:55,396 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:24:55,507 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:24:55,520 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:24:55,555 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:24:55,558 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:24:56,103 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:24:56,104 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:24:56,104 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:24:56,652 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:24:57,237 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:24:57,241 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:24:57,243 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:24:57,243 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:24:57,259 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:25:17,084 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:25:17,194 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:25:17,210 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:25:17,244 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:25:17,248 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:25:17,808 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:25:17,809 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:25:17,810 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:25:18,354 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:25:18,930 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:25:18,934 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:25:18,935 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:25:18,936 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:25:18,954 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:26:32,949 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:26:33,063 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:26:33,074 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:26:33,108 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:26:33,111 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:26:33,673 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:26:33,674 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:26:33,675 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:26:34,231 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:26:34,810 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:26:34,815 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:26:34,816 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:26:34,816 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:26:34,833 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:26:40,230 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:26:40,342 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:26:40,356 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:26:40,391 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:26:40,394 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:26:40,940 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:26:40,941 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:26:40,941 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:26:41,484 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:26:42,079 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:26:42,083 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:26:42,085 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:26:42,085 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:26:42,102 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:27:06,666 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:27:06,778 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:27:06,793 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:27:06,829 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:27:06,832 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:27:07,392 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:27:07,393 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:27:07,394 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:27:07,944 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:27:08,544 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:27:08,548 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:27:08,550 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:27:08,550 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:27:08,567 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:27:56,218 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:27:56,328 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:27:56,340 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:27:56,375 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:27:56,377 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:27:56,927 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:27:56,928 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:27:56,928 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:27:57,484 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:27:58,069 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:27:58,073 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:27:58,075 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:27:58,075 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:27:58,093 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:28:00,013 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:28:00,117 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:28:00,130 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:28:00,165 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:28:00,168 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:28:00,718 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:28:00,719 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:28:00,719 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:28:01,267 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:28:01,915 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:28:01,920 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:28:01,921 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:28:01,921 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:28:01,938 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:31:28,213 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:31:28,325 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:31:28,337 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:31:28,373 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:31:28,376 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:31:28,928 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:31:28,929 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:31:28,930 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:31:29,482 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:31:30,068 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:31:30,072 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:31:30,074 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:31:30,074 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:31:30,091 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:31:38,388 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:31:38,492 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:31:38,504 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:31:38,540 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:31:38,543 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:31:39,083 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:31:39,084 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:31:39,085 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:31:39,640 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:31:40,240 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:31:40,245 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:31:40,247 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:31:40,247 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:31:40,264 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:34:26,577 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:34:26,681 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:34:26,694 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:34:26,733 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:34:26,737 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:34:27,305 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:34:27,306 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:34:27,306 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:34:27,873 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:34:28,463 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:34:28,468 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:34:28,470 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:34:28,470 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:34:28,486 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:34:45,297 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:34:45,399 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:34:45,414 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:34:45,450 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:34:45,454 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:34:46,006 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:34:46,007 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:34:46,007 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:34:46,593 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:34:47,215 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:34:47,219 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:34:47,221 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:34:47,221 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:34:47,238 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:36:30,907 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:36:31,021 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:36:31,034 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:36:31,075 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:36:31,078 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:36:31,625 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:36:31,626 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:36:31,627 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:36:32,196 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:36:32,798 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:36:32,803 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:36:32,804 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:36:32,804 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:36:32,822 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:39:46,592 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:39:46,697 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:39:46,712 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:39:46,752 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:39:46,755 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:39:47,317 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:39:47,318 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:39:47,319 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:39:47,893 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:39:48,580 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:39:48,585 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:39:48,587 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:39:48,587 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:39:48,604 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:39:53,409 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:39:53,515 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:39:53,530 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:39:53,566 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:39:53,569 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:39:54,120 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:39:54,121 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:39:54,122 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:39:54,698 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:39:55,274 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:39:55,279 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:39:55,281 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:39:55,281 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:39:55,297 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:40:09,047 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:40:09,155 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:40:09,168 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:40:09,209 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:40:09,214 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:40:09,764 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:40:09,765 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:40:09,766 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:40:10,355 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:40:10,954 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:40:10,959 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:40:10,960 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:40:10,960 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:40:10,977 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:40:56,713 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:40:56,823 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:40:56,836 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:40:56,871 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:40:56,874 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:40:57,430 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:40:57,431 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:40:57,431 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:40:58,006 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:40:58,481 [INFO] [SystrayHook] [systray_hook/systray_hook.py:193]: Injecting into Explorer (PID: 13816)
+2026-06-27 13:40:58,607 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:40:58,612 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:40:58,613 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:40:58,614 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:40:58,630 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:41:27,284 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:41:27,394 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:41:27,409 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:41:27,446 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:41:27,449 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
+2026-06-27 13:41:28,000 [INFO] [MainThread] [root/log.py:104]: YASB v2.0.5
+2026-06-27 13:41:28,001 [INFO] [CLIPipeServer] [cli_server/cli_server.py:216]: CLI server started v1.1.7
+2026-06-27 13:41:28,001 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-06-27 13:41:28,503 [WARNING] [MainThread] [root/widget_builder.py:39]: No widget config could be found for widget 'systray
+2026-06-27 13:41:28,560 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-06-27 13:41:29,157 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:178]: TaskbarWindowManager is starting...
+2026-06-27 13:41:29,161 [INFO] [MainThread] [root/bar_manager.py:229]: Starting HotkeyListener...
+2026-06-27 13:41:29,162 [ERROR] [MainThread] [root/widget_builder.py:100]: Failed to add undefined widget(s)  - The widget "systray" is undefined.
+2026-06-27 13:41:29,174 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\akarsh\.config\yasb
+2026-06-27 13:41:29,174 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-06-27 13:41:29,190 [INFO] [MainThread] [root/update_service.py:434]: Background update checker started
+2026-06-27 13:41:37,784 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-06-27 13:41:37,894 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-06-27 13:41:37,909 [INFO] [MainThread] [root/bar_manager.py:93]: Successfully loaded updated config and re-initialised all bars.
+2026-06-27 13:41:37,944 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping HotkeyListener...
+2026-06-27 13:41:37,947 [INFO] [MainThread] [taskbar_window_manager/window_manager.py:205]: TaskbarWindowManager stopped
