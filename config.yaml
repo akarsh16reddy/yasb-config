@@ -202,6 +202,7 @@ widgets:
           pause: "\ue769"
           prev_track: "\ue892"
           next_track: "\ue893"
+
   window_switcher:
     type: "yasb.window_switcher.WindowSwitcherWidget"
     options:
@@ -217,7 +218,9 @@ widgets:
       type: "yasb.clock.ClockWidget"
       options:
         # label: "{%a %d %b %H:%M}"
-        label: "{%H:%M | %a %d %b}"
+        # label: "{%H:%M | %a %d %b}"
+        # label: "{%H:%M}"
+        label: "{%I:%M %p}"
         label_alt: "{%A %d %B %Y %H:%M:%S}"
         # locale: 'en_EN'  # Language for date, you can set your own, example fr_FR
         timezones: []  # Looking up time zone info from registry
@@ -232,6 +235,10 @@ widgets:
           show_holidays: false
           show_week_numbers: true
           holiday_color: "#FF6464"
+        callbacks:
+          on_left: "toggle_timer"
+          on_right: "context_menu"
+          on_middle: "toggle_label"
 
   cpu:
       type: "yasb.cpu.CpuWidget"
