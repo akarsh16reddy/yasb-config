@@ -223,8 +223,10 @@ widgets:
         # label: "{%a %d %b %H:%M}"
         # label: "{%H:%M | %a %d %b}"
         # label: "{%H:%M}"
-        label: "{%I:%M %p}"
-        label_alt: "{%A %d %B %Y %H:%M:%S}"
+        # label: "{%I:%M %p}"
+        label: "{%I:%M %p | %A | %d %B %Y }"
+        # label_alt: "{%A %d %B %Y %H:%M:%S}"
+        label_alt: "{%I:%M %p}"
         # locale: 'en_EN'  # Language for date, you can set your own, example fr_FR
         timezones: []  # Looking up time zone info from registry
         # timezones: ["America/Montreal"]
